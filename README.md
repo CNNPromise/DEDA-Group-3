@@ -4,4 +4,5 @@ This folder contains the python codes for analysis on Baijiu industry stock pric
   2. LDA.ipynb. uses LDA model to summarize topics in Baijiu industry reports.
   3. data.ipynb. imports stock prices of Baijiu public firms, analyzes trend using UMAP and MST methods.
   4. prediction.ipynb. predicts stock prices in the future.
+
 These codes are prepared for homework of group 3 on DEDA course.  
