@@ -5,6 +5,4 @@ This folder contains the python ipynb file for analysis on Baijiu industry stock
   3. data.ipynb. imports stock prices of Baijiu public firms, analyzes trend using UMAP and MST methods.
   4. prediction.ipynb. predicts stock prices in the future.
 
-Code in py. and data in csv. format are also contained in this folder. It can be used to replicate our main results.
-
 These codes are prepared for homework of group 3 on DEDA course.  
